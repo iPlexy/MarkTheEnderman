@@ -1,0 +1,6 @@
+name: MarkTheEnderman
+version: '${project.version}'
+main: de.iplexy.marktheenderman.MarkTheEnderman
+api-version: 1.20
+depend:
+  - Citizens
